@@ -1,0 +1,5 @@
+node_modules/
+.env
+vendor/
+*.log
+Base de datos v.3.0.0/
